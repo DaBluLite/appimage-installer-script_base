@@ -9,7 +9,7 @@ clear
 echo -en "\033]0;Your AppImage Installer Name\a"
 APP_NAME=Your App #This will be the main app name. It will be displayed in the app launcher and in the desktop shortcut
 APP_PATH_NAME=your-app #This will be the name for the paths, the AppImage and others. MUST BE URL-FRIENDLY!
-APP_URL=http://your-app.url.com/your-app.appimage #This must lead to an appimage file
+APP_URL=http://your-app.url.com/your-app.AppImage #This must lead to an appimage file
 SUDO_USER=$(logname)
 echo 'Available options:'
 echo '1) Install '$APP_NAME
