@@ -8,4 +8,3 @@
 * APP_PATH_NAME=**your-app**: This time you must enter a path/url-friendly name of your app.
 * APP_URL=**http://your-app.url.com/your-app.appimage**: This is the download url of your AppImage. Note that it must lead to an Appimage file.
 * Once you're done, test your script and see if it works.
-> Working on a built-in uninstaller.
